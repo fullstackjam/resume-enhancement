@@ -1,0 +1,22 @@
+- **首页**
+  - [概览](/)
+
+- **01 职业探索**
+  - [职业深度访谈](01-discovery/career-deep-dive.md)
+  - [市场扫描](01-discovery/market-scan.md)
+  - [目标方向](01-discovery/target-direction.md)
+
+- **02 简历**
+  - [简历 - 中文](02-resume/resume-pm-CN.md)
+  - [简历 - English](02-resume/resume-pm-EN.md)
+
+- **03 面试准备**
+  - [自我介绍](03-interview-prep/self-intro.md)
+  - [简历深挖问答](03-interview-prep/resume-deep-dive.md)
+  - [行为面试 QA](03-interview-prep/behavioral-qa.md)
+  - [风险点应对](03-interview-prep/risky-points.md)
+
+- **04 求职行动**
+  - [目标公司清单](04-job-search/target-companies.md)
+  - [打招呼模板](04-job-search/greeting-templates.md)
+  - [薪资谈判](04-job-search/salary-negotiation.md)
