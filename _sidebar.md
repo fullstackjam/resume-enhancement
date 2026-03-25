@@ -15,6 +15,7 @@
   - [简历深挖问答](03-interview-prep/resume-deep-dive.md)
   - [行为面试 QA](03-interview-prep/behavioral-qa.md)
   - [风险点应对](03-interview-prep/risky-points.md)
+  - [溢泰环保专版](03-interview-prep/yitai-interview-prep.md)
 
 - **04 求职行动**
   - [目标公司清单](04-job-search/target-companies.md)
