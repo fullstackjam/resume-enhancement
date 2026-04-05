@@ -18,6 +18,11 @@
   - [溢泰环保专版](03-interview-prep/yitai-interview-prep.md)
   - [博西家电（BSH）专版](03-interview-prep/bsh-interview-prep.md)
   - [久驰机电（INVOX）专版](03-interview-prep/invox-interview-prep.md)
+  - [普罗安全系统（Protech）专版](03-interview-prep/protech-interview-prep.md)
+  - [协澳智能（ODES）专版](03-interview-prep/odes-interview-prep.md)
+  - [龙蟠科技 PMO 专版](03-interview-prep/lopal-pmo-interview-prep.md)
+  - [阳光电源（Sungrow）专版](03-interview-prep/sungrow-interview-prep.md)
+  - [桦冠医药（ChemPion）专版](03-interview-prep/chempion-interview-prep.md)
 
 - **04 求职行动**
   - [目标公司清单](04-job-search/target-companies.md)
