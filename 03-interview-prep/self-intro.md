@@ -8,7 +8,7 @@
 
 我的第一份工作在鸣志电器，主要负责海外客户的订单全流程管理，服务新加坡、德国、印度等市场的客户，同时参与了公司越南工厂转产项目的执行工作。这段经历让我建立了从订单录入、交期管理到出口报关的全流程执行能力，以及在多部门协同中推动节点落地的工作方式。
 
-现在在泰胜风能，我独立负责了10多个国际风电塔筒项目，客户覆盖巴基斯坦、土耳其、澳大利亚等市场。目前正在推进的一个重点项目是跟巴西WEG公司的合作，这是他们第一次做风电塔筒，我在项目中负责执行端的全流程对接，包括技术澄清的协调、采购提前备料的推动等。
+现在在泰胜风能，我独立负责了10多个国际风电塔筒项目，客户覆盖巴基斯坦、土耳其、澳大利亚等市场，所有项目按期交付，无客户投诉。这段经历让我系统建立了从技术立项、里程碑拆解、跨部门资源协调，到风险识别与闭环、最终出口发运的项目全生命周期管理能力。
 
 我的优势是比较擅长跨部门协调，性格随和，能跟不同部门的人建立良好的合作关系，这对项目推进帮助很大。因为个人生活规划需要回南京发展，所以希望在南京找到一个继续在项目管理方向深耕的机会。
 
@@ -16,7 +16,7 @@
 
 ## 中文版（1分钟精简版）
 
-面试官您好，我叫徐静怡，有4年制造业项目管理经验。之前在鸣志电器做海外客户订单管理，现在在泰胜风能做项目专员，独立负责了10多个国际风电塔筒项目，客户覆盖巴基斯坦、土耳其、澳大利亚等市场，所有项目都按期交付。我比较擅长跨部门协调，性格随和，能推动各部门配合项目推进。因为个人规划需要回南京发展，希望找到一个继续做项目管理的机会。
+面试官您好，我叫徐静怡，有4年制造业项目管理经验。之前在鸣志电器做海外客户订单全流程管理，现在在泰胜风能做项目专员，独立负责了10多个国际风电塔筒项目，所有项目按期交付。在泰胜这几年，我建立了从技术立项到交付发运的项目全流程管理能力，擅长跨部门协调和风险识别。因为个人规划需要回南京发展，希望找到一个继续做项目管理的机会。
 
 ---
 
@@ -26,7 +26,7 @@ Hi, my name is Xu Jingyi. I have four years of experience in project management 
 
 I started my career at Mingzhi Electric, where I managed the full cycle of overseas customer orders — from order entry and lead time management to export documentation and customs clearance — for clients in Singapore, Germany, and India. I also coordinated a Vietnam factory transfer project.
 
-Currently, I work as a Project Specialist at Taisheng Wind Power, where I independently manage over ten international wind tower projects for clients in Pakistan, Turkey, and Australia. All projects have been delivered on time with no client complaints.
+Currently, I work as a Project Specialist at Taisheng Wind Power, where I independently manage over ten international wind tower projects for clients in Pakistan, Turkey, and Australia — all delivered on time with zero complaints. This role has given me end-to-end project management experience, covering everything from technical kick-off and milestone planning to cross-functional coordination, risk management, and final delivery.
 
 One of my key strengths is cross-functional coordination. I'm good at building relationships with different departments to keep projects on track. I'm now looking for a project management opportunity in Nanjing. Thank you.
 
