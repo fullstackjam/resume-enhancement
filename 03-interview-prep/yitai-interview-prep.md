@@ -29,9 +29,9 @@
 
 > 面试官您好，我叫徐静怡，有4年制造业项目管理经验。
 >
-> 第一份工作在鸣志电器，负责海外客户订单的全流程管理，同时参与了越南工厂转产项目的执行，积累了跨部门协调和多任务并行的基础能力。
+> 第一份工作在鸣志电器，负责海外客户订单的全流程管理，同时参与了越南工厂转产项目的执行，建立了从订单录入、交期管理到出口报关的全流程执行能力，以及在多部门协同中推动节点落地的工作方式。
 >
-> 现在在泰胜风能做项目专员，独立管理10多个国际风电塔筒项目，客户覆盖巴基斯坦、土耳其、澳大利亚等市场，所有项目按期交付，无客户投诉。我的工作核心就是盯进度、协调资源、推动各部门在节点上对齐。
+> 现在在泰胜风能做项目专员，独立管理10多个国际风电塔筒项目，客户覆盖巴基斯坦、土耳其、澳大利亚等市场，所有项目按期交付，无客户投诉。这段经历让我系统建立了从技术立项、里程碑拆解、跨部门资源协调，到风险识别与闭环、出口发运的项目全生命周期管理能力。
 >
 > 我了解到溢泰环保的项目管理岗主要负责新产品开发的全流程推进。我在制造业的项目协调经验——编进度计划、组织阶段会议、识别风险、推动各部门配合——可以直接迁移过来用。因为个人生活规划回南京发展，希望能在溢泰继续深耕项目管理方向。
 
@@ -133,9 +133,9 @@
 
 > Hi, I'm Xu Jingyi. I have four years of project management experience in manufacturing.
 >
-> I started at Mingzhi Electric, managing overseas customer orders for clients in Singapore, Germany, and India, and I was also involved in a Vietnam factory transfer project.
+> I started at Mingzhi Electric, managing the full cycle of overseas customer orders — from order entry and lead time management to export documentation and clearance — for clients in Singapore, Germany, and India. I also coordinated a Vietnam factory transfer project.
 >
-> Currently, I work at Taisheng Wind Power, independently managing over ten international wind tower projects for clients in Pakistan, Turkey, and Australia. All projects have been delivered on time with no client complaints.
+> Currently, I work at Taisheng Wind Power, independently managing over ten international wind tower projects for clients in Pakistan, Turkey, and Australia — all delivered on time with zero complaints. This role has given me end-to-end project management experience, covering everything from technical kick-off and milestone planning to cross-functional coordination, risk management, and final delivery.
 >
 > My core strength is cross-functional coordination — I'm good at aligning different departments and keeping projects on track even under tight timelines. I'm now looking to continue in project management here in Nanjing.
 

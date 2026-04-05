@@ -44,9 +44,9 @@
 
 > 面试官您好，我叫徐静怡，有将近4年的制造业项目管理经验。
 >
-> 我目前在泰胜风能做项目专员，独立负责10多个国际风电塔筒项目，客户覆盖巴基斯坦、土耳其、澳大利亚等市场，所有项目按期交付，没有客户投诉记录。我的核心工作就是盯项目全周期——从技术澄清、物料采购、生产节点，到出口发运，协调总部、技术、采购、质检等多个部门对齐推进。
+> 我目前在泰胜风能做项目专员，独立负责10多个国际风电塔筒项目，客户覆盖巴基斯坦、土耳其、澳大利亚等市场，所有项目按期交付，没有客户投诉记录。这段经历让我系统建立了从技术立项、里程碑拆解、跨部门资源协调，到风险识别与闭环、出口发运的项目全生命周期管理能力。
 >
-> 再往前一份工作在鸣志电器，负责新加坡、德国、印度等海外客户的订单全流程管理，也参与过越南工厂转产项目的协调执行，积累了多语言环境下的跨文化沟通经验。
+> 再往前一份工作在鸣志电器，负责新加坡、德国、印度等海外客户的订单全流程管理，也参与过越南工厂转产项目的协调执行，建立了从订单录入、交期管理到出口报关的全流程执行能力。
 >
 > 我选择BSH，一方面是因为这个岗位的核心职责——跨部门国际协调、项目进度和目标管控、向管理层汇报——和我现在做的事情高度重合；另一方面，BSH的规范化管理体系和外资的工作文化，对我来说也是一个很好的职业发展平台。希望能在BSH继续深耕项目管理方向。
 
@@ -58,9 +58,9 @@
 
 > Hi, I'm Xu Jingyi. I have nearly four years of project management experience in manufacturing.
 >
-> Currently, I'm a project specialist at Taisheng Wind Power, independently managing over ten international wind tower projects — for clients in Pakistan, Turkey, and Australia. All projects have been delivered on time, with zero client complaints. My day-to-day work is about keeping projects on track: aligning technical teams, coordinating procurement and quality, and making sure each milestone is met.
+> Currently, I'm a project specialist at Taisheng Wind Power, independently managing over ten international wind tower projects — for clients in Pakistan, Turkey, and Australia. All projects have been delivered on time, with zero client complaints. This experience has given me end-to-end project lifecycle management capability — from technical kick-off and milestone planning to cross-functional coordination, risk management, and final delivery.
 >
-> Before that, I was at Mingzhi Electric, managing full-cycle orders for overseas clients in Singapore, Germany, and India. I was also involved in a Vietnam factory transfer project, coordinating cross-border shipments and customs processes.
+> Before that, I was at Mingzhi Electric, where I managed the full cycle of overseas customer orders — from order entry and lead time management to export documentation and clearance — for clients in Singapore, Germany, and India. I also coordinated a Vietnam factory transfer project.
 >
 > I'm interested in this role at BSH because the core responsibilities — cross-functional coordination, international stakeholder management, and driving project milestones — are exactly what I do now. BSH's structured project management approach and global environment are also a great fit for where I want to grow professionally. I'm excited about the opportunity to contribute here.
 
