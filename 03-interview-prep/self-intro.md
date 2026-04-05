@@ -6,7 +6,7 @@
 
 面试官您好，我叫徐静怡，目前在扬州泰胜风能做项目专员，有4年的制造业项目管理相关经验。
 
-我的第一份工作在鸣志电器，主要负责海外客户的订单全流程管理，服务新加坡、德国、印度等市场的客户，同时参与了公司越南工厂转产项目的执行工作。这段经历让我积累了海外客户沟通和跨部门协调的经验。
+我的第一份工作在鸣志电器，主要负责海外客户的订单全流程管理，服务新加坡、德国、印度等市场的客户，同时参与了公司越南工厂转产项目的执行工作。这段经历让我建立了从订单录入、交期管理到出口报关的全流程执行能力，以及在多部门协同中推动节点落地的工作方式。
 
 现在在泰胜风能，我独立负责了10多个国际风电塔筒项目，客户覆盖巴基斯坦、土耳其、澳大利亚等市场。目前正在推进的一个重点项目是跟巴西WEG公司的合作，这是他们第一次做风电塔筒，我在项目中负责执行端的全流程对接，包括技术澄清的协调、采购提前备料的推动等。
 
@@ -24,7 +24,7 @@
 
 Hi, my name is Xu Jingyi. I have four years of experience in project management within the manufacturing industry.
 
-I started my career at Mingzhi Electric, where I managed overseas customer orders for clients in Singapore, Germany, and India. I also supported a Vietnam factory transfer project.
+I started my career at Mingzhi Electric, where I managed the full cycle of overseas customer orders — from order entry and lead time management to export documentation and customs clearance — for clients in Singapore, Germany, and India. I also coordinated a Vietnam factory transfer project.
 
 Currently, I work as a Project Specialist at Taisheng Wind Power, where I independently manage over ten international wind tower projects for clients in Pakistan, Turkey, and Australia. All projects have been delivered on time with no client complaints.
 
