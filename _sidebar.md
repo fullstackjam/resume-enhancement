@@ -23,6 +23,8 @@
   - [龙蟠科技 PMO 专版](03-interview-prep/lopal-pmo-interview-prep.md)
   - [阳光电源（Sungrow）专版](03-interview-prep/sungrow-interview-prep.md)
   - [桦冠医药（ChemPion）专版](03-interview-prep/chempion-interview-prep.md)
+  - [久驰机电 · 模拟面试题目](03-interview-prep/jiuchi-mock-interview-questions.md)
+  - [久驰机电 · 答题练习稿](03-interview-prep/jiuchi-answer-drill.md)
 
 - **04 求职行动**
   - [目标公司清单](04-job-search/target-companies.md)
